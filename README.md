@@ -71,3 +71,18 @@ Google Scholar gibi sitelerden veri kazımak için:
 * **Resmi API'ler:** Mümkünse, web sitelerinin sunduğu resmi API'leri kullanmak her zaman daha stabil, güvenilir ve etik bir yoldur. Google Scholar'ın doğrudan bir arama API'si kısıtlıdır veya akademik olmayan kullanımlar için tasarlanmamıştır.
 * **Hata Yönetimi ve Dayanıklılık:** 403 gibi hatalar alındığında betiğin daha akıllıca davranması (örn: farklı IP/User-Agent ile tekrar deneme, belirli bir süre sonra tekrar deneme) için geliştirmeler yapılabilir.
 * **Sayfalama (Pagination):** Başarılı bir kazıma senaryosunda, arama sonuçlarının birden fazla sayfasını gezmek için sayfalama mantığı eklenmelidir.
+
+
+
+## 📞 İletişim
+
+🐛 **Bug Report**: GitHub Issues kullanın  
+💡 **Feature Request**: Discussions bölümünden önerinizi paylaşın  
+📧 E-posta: [mehmetaksoy49@gmail.com]
+
+- Pull Request ile katkıda bulunun
+- Projeyi yıldızlamayı unutmayın! ⭐
+
+---
+
+**Not**: Bu proje eğitim amaçlı geliştirilmiştir ve akademik çalışmalarda referans olarak kullanılabilir.
